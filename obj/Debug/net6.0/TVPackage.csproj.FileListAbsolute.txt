@@ -1,0 +1,5 @@
+D:\Uni\Semester 6 SP23\SWENG 421\Lab8\Lab8\obj\Debug\net6.0\TVPackage.csproj.AssemblyReference.cache
+D:\Uni\Semester 6 SP23\SWENG 421\Lab8\Lab8\obj\Debug\net6.0\TVPackage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\Semester 6 SP23\SWENG 421\Lab8\Lab8\obj\Debug\net6.0\TVPackage.AssemblyInfoInputs.cache
+D:\Uni\Semester 6 SP23\SWENG 421\Lab8\Lab8\obj\Debug\net6.0\TVPackage.AssemblyInfo.cs
+D:\Uni\Semester 6 SP23\SWENG 421\Lab8\Lab8\obj\Debug\net6.0\TVPackage.csproj.CoreCompileInputs.cache
